@@ -41,7 +41,7 @@ def printCertificates(template_pdf_path, output_folder, font_path):
         y_position = (A4[1] * 0.4) - 35  
 
         # Draw the name on the text layer
-        c.setFillColorRGB(0.04, 0.83, 0.93)  # Set the text color (a shade of blue)
+        c.setFillColorRGB(0.04, 0.83, 0.93)  # Set the text color 
         c.drawString(x_position, y_position, bidi_text)
 
         # Save the text layer
