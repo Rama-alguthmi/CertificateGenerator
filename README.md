@@ -1,6 +1,6 @@
 # Certificate Naming Automation
 
-What You Need
+Ensure you have the following before running the code: 
 
 1. Install Python Libraries: 
    - Run the following command in your terminal (Mac) or command prompt (Windows):
