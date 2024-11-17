@@ -8,6 +8,7 @@ What You Need
        pip install Pillow arabic-reshaper python-bidi reportlab pypdf2
 
       Note: Use pip3 instead of pip if your system requires it for Python 3.
+     
    
 3. Download the Font:
    - Download Noto Sans Arabic from Google Fonts.
