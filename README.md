@@ -12,4 +12,4 @@ What You Need
    - Use the .ttf file for the font, e.g., NotoSansArabic-Medium.ttf.
 
 4. Prepare the Template:
-   - Have a certificate template in PDF format (e.g., template.pdf).
+   - Have a certificate template without any name printed in a PDF format.
