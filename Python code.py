@@ -1,4 +1,4 @@
-# Import libraries
+# Import libraries 
 import arabic_reshaper                        # To reshape Arabic text so letters connect properly
 from bidi.algorithm import get_display        # To display reshaped Arabic text correctly in right-to-left (RTL) format
 from reportlab.pdfgen import canvas           # To write text on a PDF page (used to add names)
