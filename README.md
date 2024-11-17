@@ -1,4 +1,4 @@
-# CertificateNamingAutomation
+# Certificate Naming Automation
 
 What You Need
 
